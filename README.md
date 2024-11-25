@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @irbox
+- 👀 I’m interested in Bioengineering, Ai and Machine learning.
+- 🌱 I’m currently learning Health and Computer Science.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 How to reach me? via GitHub issues i.e [Just click here](https://github.com/irbox/irbox/issues/new/) to start the conversation.
+- 📫 How to reach me privately for Work-related or Business talks? via Email (coming soon)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Even Aethists long for God's grace, issue is they got no teacher.
